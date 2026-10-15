@@ -17,7 +17,7 @@
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] 2 tbsp oil (peanut, vegetable or canola)
+- [ ]2 tbsp oil (peanut, vegetable or canola)
 - [ ]3 large cloves of garlic , minced
 - [ ]2 birds eye chilli or Thai chillies , deseeded, very finely chopped (Note 2)
 - [ ]1/2 onion , sliced
