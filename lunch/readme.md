@@ -2,7 +2,7 @@
 
 ## Drunken noodles rich of veggies and tofu at Farmhouse.
 
-<!-- It's a must-have during the winter. It's full of flavor and comfort!
+It's a must-have during the winter. It's full of flavor and comfort!
 ## Stats
 
 | Field | Info |
