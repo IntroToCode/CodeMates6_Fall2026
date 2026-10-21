@@ -51,8 +51,26 @@ Bake the pizza for about 8-12 minutes. This is going to depend on how hot your o
 If the top of your pizza is browning too quickly but the bottom crust isn't done, tent the top of the pizza with foil to slow browning.
 10. Remove your pizza from the oven using the pizza peel. Slide it directly onto a cooling rack to help keep that bottom crust from getting soggy. Let cool a couple minutes, then transfer to a cutting board. Slice into 8 pieces and devour!
 
+### Beverage Pairing:
+
+**Lemon Iced Tea**
+
+A cold, slightly sweet drink that balances the salty cheese and pepperoni.
+
+- [ ] 4 black tea bags
+- [ ] 4 cups water
+- [ ] 2 tablespoons sugar or honey (optional)
+- [ ] 1 lemon, sliced
+- [ ] Ice
+
+1. Bring 2 cups of water to a boil, then remove from heat.
+2. Add the tea bags and steep for 5 minutes. Remove the bags.
+3. Stir in the sugar or honey while the tea is still hot.
+4. Add the remaining 2 cups of cold water and let it cool.
+5. Serve over ice with a lemon slice.
+
 ### Notes:
 
 *If you do not have a pizza stone, you should dust whatever you are baking your pizza on (pizza pan, baking sheet) with cornmeal. This will help prevent sticking.
 
-### Author(s): Jaime Martinez, Karen Gifford (original)
+### Author(s): Jaime Martinez, Karen Gifford (original) Dipti Vaithiswaran (iced tea beverage)
