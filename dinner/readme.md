@@ -15,6 +15,7 @@
 | Total Time | 55 minutes |
 | Servings | 8 slices |
 | Difficulty | Hard |
+| Spice Level | 1 - Mild |
 | Tags | quick, make-ahead, group dinner |
 
 
