@@ -12,7 +12,6 @@ It's a must-have during the winter. It's full of flavor and comfort!
 | Total Time | 20 minutes |
 | Servings | 2 |
 | Difficulty |Medium|
-| Spice Level | 🌶️🌶️ Medium |
 | Tags | e.g. vegetarian, quick, entree|
 
 <!-- Note the fields in the markdown table -->
