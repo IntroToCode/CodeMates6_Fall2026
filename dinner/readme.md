@@ -5,6 +5,8 @@
 
 ## Serving: 1 slice | Calories: 315kcal | Carbohydrates: 5g | Protein: 18g | Fat: 25g | Saturated Fat: 11g | Polyunsaturated Fat: 1g | Monounsaturated Fat: 10g | Trans Fat: 1g | Cholesterol: 66mg | Potassium: 298mg | Fiber: 1g | Sugar: 3g | Vitamin A: 670IU | Vitamin C: 4mg | Calcium: 326mg | Iron: 1mg
 
+# Suggested Beverage Pairing: Coca Cola
+
 | Field | Info |
 |-------|------|
 | Prep Time | 15 minutes |
