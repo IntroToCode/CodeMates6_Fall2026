@@ -11,25 +11,25 @@
 | Preheat Time | 30 minutes |
 | Cook Time | 10 minutes |
 | Total Time | 55 minutes |
-| Servings | 8 slices |
+| Servings | 16 slices |
 | Difficulty | Hard |
 | Spice Level | 🌶️ Mild |
 | Tags | quick, make-ahead, group dinner |
 
 
 ### Ingredients:
-- [ ] 1 16 ounce ball of pizza dough, 12 to 16 ounces is fine
-- [ ] 1 tablespoon olive oil, for rubbing dough
-- [ ] 1 cup pizza sauce
-- [ ] 3 ounces thinly sliced mozzarella cheese
-- [ ] 5 ounces shredded mozzarella cheese, about 1 and 1/4 cups
-- [ ] 2.5 ounces pepperoni , about half a 5 oz package
-- [ ] 2 tablespoons shredded parmesan cheese
+- [ ] 2 16 ounce balls of pizza dough, 12 to 16 ounces each is fine
+- [ ] 2 tablespoons olive oil, for rubbing dough
+- [ ] 2 cups pizza sauce
+- [ ] 6 ounces thinly sliced mozzarella cheese
+- [ ] 10 ounces shredded mozzarella cheese, about 2 and 1/2 cups
+- [ ] 5 ounces pepperoni , about one 5 oz package
+- [ ] 4 tablespoons shredded parmesan cheese
       
 
 ### Steps for preparation:
 
-1. NOTE: The ingredient list has the amount of toppings you need to make one 12-inch pizza. If you followed my pizza dough recipe, you will have 2 balls of dough. If you want to make them both right away, be sure to double the topping ingredients shown here.
+1. NOTE: The ingredient list has the amount of toppings you need to make two 12-inch pizzas. The amounts given in the steps below are per pizza, so split the ingredients evenly between the two balls of dough.
 2. Place a pizza stone in the bottom third of your oven. (place a rimmed baking sheet or a pizza pan in the oven if you don't have a stone.)
 3. Preheat your oven to 550 degrees F, or as high as it will go (at least 475.) Let the stone preheat for 30 minutes. I don't care when your oven beeps to tell you it's at temperature. Set a timer, 30 minutes at least!
 4. Prepare a work surface. I prefer to rub my counter with oil, but you can lightly dust it with flour if you have a very sticky dough. (Too much flour can turn your dough tough.)
@@ -49,7 +49,7 @@ Sprinkle 2 tablespoons shredded parmesan cheese over your toppings.
 9. Bake the pizza. (See note if you don't have a pizza stone*) Transfer the pizza back onto the pizza stone (or pan), this time without the parchment paper. You want the pizza to do its final bake directly on the stone. (The stone is porous and absorbs moisture, giving you a crispier crust.) Your crust is sturdy enough after the 1-2 minute par bake that it shouldn't be too hard to push the pizza onto the stone without the paper. 
 Bake the pizza for about 8-12 minutes. This is going to depend on how hot your oven is, and how thick your pizza is. The edges of the crust should be golden brown, and the cheese should be bubbly and also starting to lightly brown. If you don't have a pizza stone, use a spatula to lift the edge of your pizza to make sure that it is browning all across the center on bottom. If the bottom is still white, you are looking at a doughy pizza. No thanks. Leave it in longer.
 If the top of your pizza is browning too quickly but the bottom crust isn't done, tent the top of the pizza with foil to slow browning.
-10. Remove your pizza from the oven using the pizza peel. Slide it directly onto a cooling rack to help keep that bottom crust from getting soggy. Let cool a couple minutes, then transfer to a cutting board. Slice into 8 pieces and devour!
+10. Remove your pizzas from the oven using the pizza peel. Slide them directly onto a cooling rack to help keep that bottom crust from getting soggy. Let cool a couple minutes, then transfer to a cutting board. Slice each pizza into 8 pieces, 16 slices in total, and devour!
 
 ### Beverage Pairing:
 
