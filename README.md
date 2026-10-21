@@ -6,3 +6,14 @@
 
 _Notes_
 __
+
+## Spice Level scale
+
+Every recipe lists a Spice Level in its Stats table using this scale:
+
+| Value | Meaning |
+|-------|---------|
+| 0 - None | No chili heat |
+| 1 - Mild | Noticeable but gentle |
+| 2 - Medium | Clearly spicy, still approachable |
+| 3 - Hot | Strong heat |
