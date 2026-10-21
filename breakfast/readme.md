@@ -13,6 +13,7 @@
 | Total Time | 15 minutes |
 | Servings | 2 |
 | Difficulty | Easy |
+| Spice Level | 0 - None |
 | Tags | e.g. breakfast, vegetarian, wholesome food |
 
 <!-- Note the fields in the markdown table -->
